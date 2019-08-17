@@ -59,3 +59,5 @@ typings/
 
 # next.js build output
 .next
+
+set-maker-ui/package-lock\.json
